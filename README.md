@@ -1,6 +1,6 @@
 # NoSQL-Database-Project
 
-#Python Code
+#AWS DynamoDB access
 
 #Access key ID: AKIAZGJUXJ63NR53KT5A     
 
